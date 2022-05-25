@@ -2,4 +2,5 @@
 
 Welcome to Business analytics..!
 
-Use of pandas
+Use of Numpy, Pandas
+use of Matplotlib
