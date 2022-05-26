@@ -5,3 +5,5 @@ Welcome to Business analytics..!
 Use of Numpy, Pandas
 use of Matplotlib
 Use of seaborn
+use of GUI
+Use of socket
